@@ -1,4 +1,7 @@
 # Industrial System Monitor Simulator
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 A Python-based industrial monitoring system that simulates real-time sensor data, detects anomalies, and visualizes system performance through an interactive dashboard.
 
